@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="时间轮">
+      <UniqueIdentifier>{278d0870-67a5-49ec-8367-2f09322f5c1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="13.6.5共享内存聊天室">
+      <UniqueIdentifier>{89be6d66-fb7c-4e1b-b842-ede053fa9049}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="9.6.1聊天室客户端poll">
+      <UniqueIdentifier>{2afb8145-02c0-41d2-ab0e-62245871cac6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="9.6.2聊天室服务器poll">
+      <UniqueIdentifier>{502f32fe-6750-4b0b-898c-8157e3e024ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="13.9在进程中创建文件描述符">
+      <UniqueIdentifier>{2ed443ae-bb49-4ed3-b89d-24de8639ccd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="15.4进程池模板类及其cgi服务器">
+      <UniqueIdentifier>{a2dd3e6a-dfdb-4d77-9de9-daae7790b696}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="15.5半同步半反应堆线程池">
+      <UniqueIdentifier>{93602537-2218-43af-b033-ae4aa58f2705}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="14.7线程同步机制包装">
+      <UniqueIdentifier>{7ee2c9a8-6450-4f33-8f21-927cdff47213}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="15.6使用线程池实现简单web服务器">
+      <UniqueIdentifier>{43e2dc8f-a069-48bd-ac3f-928c2e7d3d54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="生产者消费者的任务队列工具库">
+      <UniqueIdentifier>{58835b19-d992-41f4-a2e4-7f28ccd53f6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="8.3主从状态机时间简易http读取和解析">
+      <UniqueIdentifier>{c367b179-5623-44d1-9440-489ce290e8fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="11.3使用alarm函数周期触发信号，唤醒定时器">
+      <UniqueIdentifier>{071fa9ef-34d6-4404-b04d-a6f987a66f7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="9.3ET和LR模式">
+      <UniqueIdentifier>{1a0094e2-b83e-438a-8d44-8f01356d75cb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lst_timer.h">
+      <Filter>11.3使用alarm函数周期触发信号，唤醒定时器</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\11-5tw_timer.h">
+      <Filter>时间轮</Filter>
+    </ClInclude>
+    <ClInclude Include="15-1processpool.h">
+      <Filter>15.4进程池模板类及其cgi服务器</Filter>
+    </ClInclude>
+    <ClInclude Include="15-3threadpool.h">
+      <Filter>15.5半同步半反应堆线程池</Filter>
+    </ClInclude>
+    <ClInclude Include="14-2locker.h">
+      <Filter>14.7线程同步机制包装</Filter>
+    </ClInclude>
+    <ClInclude Include="15-4http_conn.h">
+      <Filter>15.6使用线程池实现简单web服务器</Filter>
+    </ClInclude>
+    <ClInclude Include="thread_pool.h">
+      <Filter>生产者消费者的任务队列工具库</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="nonactive_conn.cpp">
+      <Filter>11.3使用alarm函数周期触发信号，唤醒定时器</Filter>
+    </ClCompile>
+    <ClCompile Include="9-6mytalk_client.cpp">
+      <Filter>9.6.1聊天室客户端poll</Filter>
+    </ClCompile>
+    <ClCompile Include="13-4shm_talk_server.cpp">
+      <Filter>13.6.5共享内存聊天室</Filter>
+    </ClCompile>
+    <ClCompile Include="9-7mytalk_server.cpp">
+      <Filter>9.6.2聊天室服务器poll</Filter>
+    </ClCompile>
+    <ClCompile Include="13-5passfd.cpp">
+      <Filter>13.9在进程中创建文件描述符</Filter>
+    </ClCompile>
+    <ClCompile Include="15-2pool_cgi.cpp">
+      <Filter>15.4进程池模板类及其cgi服务器</Filter>
+    </ClCompile>
+    <ClCompile Include="15-5http_conn.cpp">
+      <Filter>15.6使用线程池实现简单web服务器</Filter>
+    </ClCompile>
+    <ClCompile Include="15-6main.cpp">
+      <Filter>15.6使用线程池实现简单web服务器</Filter>
+    </ClCompile>
+    <ClCompile Include="源.cpp">
+      <Filter>生产者消费者的任务队列工具库</Filter>
+    </ClCompile>
+    <ClCompile Include="8-3httpparser.cpp">
+      <Filter>8.3主从状态机时间简易http读取和解析</Filter>
+    </ClCompile>
+    <ClCompile Include="9-3mtlt.cpp">
+      <Filter>9.3ET和LR模式</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1174 @@
+﻿     0>将用于 $(MSBuildExtensionsPath) 的搜索路径为 E:\Workstation\VisualStudio\install\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       尝试使用扩展路径 E:\Workstation\VisualStudio\install\2019\Community\MSBuild 导入 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.props
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Microsoft.Common.props (57,5) 处重新分配属性: $(MSBuildProjectExtensionsPath)=“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\obj\”(先前值:“obj\”)
+       将用于 $(MSBuildExtensionsPath) 的搜索路径为 E:\Workstation\VisualStudio\install\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       尝试使用扩展路径 E:\Workstation\VisualStudio\install\2019\Community\MSBuild 导入 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\$(MSBuildToolsVersion)\Imports\Microsoft.Common.props\ImportBefore\*
+       将用于 $(MSBuildExtensionsPath) 的搜索路径为 E:\Workstation\VisualStudio\install\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       “Configuration”属性是全局属性，不能修改。
+       将用于 $(MSBuildExtensionsPath) 的搜索路径为 E:\Workstation\VisualStudio\install\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       将用于 $(MSBuildExtensionsPath) 的搜索路径为 E:\Workstation\VisualStudio\install\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Default.props (75,5) 处重新分配属性: $(Platform)=“Win32”(先前值:“x86”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Default.props (95,5) 处重新分配属性: $(_RelativeApplicationTypeFolder)=“Application Type\Linux\”(先前值:“”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Default.props (96,5) 处重新分配属性: $(_RelativeApplicationTypeRevisionFolder)=“Application Type\Linux\1.0\”(先前值:“”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\Default.props (21,5) 处重新分配属性: $(Platform)=“x86”(先前值:“Win32”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Default.props (29,5) 处重新分配属性: $(RemoteRootDir)=“~/projects”(先前值:“”)
+       “Configuration”属性是全局属性，不能修改。
+       “LangID”属性是全局属性，不能修改。
+       “SolutionDir”属性是全局属性，不能修改。
+       在 E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj (62,5) 处重新分配属性: $(UseDebugLibraries)=“true”(先前值:“false”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.props (52,5) 处重新分配属性: $(CharacterSet)=“Unicode”(先前值:“NotSet”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.props (109,5) 处重新分配属性: $(TargetExt)=“.out”(先前值:“”)
+       “SolutionExt”属性是全局属性，不能修改。
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5) 处重新分配属性: $(ExtensionsToDeleteOnClean)=“*.d;*.tlog;;E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\bin\x86\Debug\Project1.out.manifest;E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\bin\x86\Debug\Project1.tlb;E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\bin\x86\Debug\Project1.pdb;E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\bin\x86\Debug\Project1.out;E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\bin\x86\Debug\Project1.bsc;E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\bin\x86\Debug\Project1.ilk;E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\bin\x86\Debug\Project1.out.intermediate.manifest;”(先前值:“*.d;*.tlog;”)
+       将用于 $(MSBuildExtensionsPath) 的搜索路径为 E:\Workstation\VisualStudio\install\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       将用于 $(MSBuildExtensionsPath) 的搜索路径为 E:\Workstation\VisualStudio\install\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       尝试使用扩展路径 E:\Workstation\VisualStudio\install\2019\Community\MSBuild 导入 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.targets\ImportBefore\*
+       “Configuration”属性是全局属性，不能修改。
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (186,5) 处重新分配属性: $(_DocumentationFileProduced)=“false”(先前值:“true”)
+       “DevEnvDir”属性是全局属性，不能修改。
+       “SolutionName”属性是全局属性，不能修改。
+       “SolutionFileName”属性是全局属性，不能修改。
+       “SolutionPath”属性是全局属性，不能修改。
+       “SolutionDir”属性是全局属性，不能修改。
+       “SolutionExt”属性是全局属性，不能修改。
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (369,5) 处重新分配属性: $(AutoUnifyAssemblyReferences)=“false”(先前值:“true”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (558,5) 处重新分配属性: $(DelaySign)=“”(先前值:“false”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (3612,5) 处重新分配属性: $(_SGenGenerateSerializationAssembliesConfig)=“Auto”(先前值:“”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (3613,5) 处重新分配属性: $(_SGenGenerateSerializationAssembliesConfig)=“Off”(先前值:“Auto”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (125,5) 处重新分配属性: $(_CodeAnalysisTreatWarningsAsErrors)=“false”(先前值:“”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (240,5) 处重新分配属性: $(PrepareForBuildDependsOn)=“;GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables”(先前值:“;GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata”)
+       在 C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets (35,5) 处重新分配属性: $(PrepareResourcesDependsOn)=“
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+            
+           ”(先前值:“
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VisualStudio\v16.0\TeamTest\Microsoft.TeamTest.targets (4,5) 处重新分配属性: $(ResolveReferencesDependsOn)=“
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ResolveTestReferences
+           ”(先前值:“
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ”)
+       将用于 $(MSBuildExtensionsPath) 的搜索路径为 E:\Workstation\VisualStudio\install\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       尝试使用扩展路径 E:\Workstation\VisualStudio\install\2019\Community\MSBuild 导入 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.targets\ImportAfter\*
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets (74,5) 处重新分配属性: $(ProjectLockFile)=“obj\project.assets.json”(先前值:“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\obj\project.assets.json”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets (185,5) 处重新分配属性: $(ResolveAssemblyReferencesDependsOn)=“
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets”(先前值:“
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets (186,5) 处重新分配属性: $(PrepareResourcesDependsOn)=“ResolveNuGetPackageAssets;
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+            
+           ”(先前值:“
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+            
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (37,5) 处重新分配属性: $(DebugType)=“”(先前值:“none”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (119,5) 处重新分配属性: $(BuildDependsOn)=“
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           ”(先前值:“
+             BeforeBuild;
+             CoreBuild;
+             AfterBuild
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (127,5) 处重新分配属性: $(RebuildDependsOn)=“
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           ”(先前值:“
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (132,5) 处重新分配属性: $(CleanDependsOn)=“
+             _PrepareForClean;
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+           ”(先前值:“
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (61,5) 处重新分配属性: $(BeforeBuildGenerateSourcesTargets)=“
+             
+             ;
+             BeforeBuildGenerateSources;
+           ;
+           ”(先前值:“
+             ;
+             BeforeBuildGenerateSources;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (72,5) 处重新分配属性: $(AfterBuildGenerateSourcesTargets)=“
+             
+             ;
+             AfterBuildGenerateSources;
+           ;
+             AfterBuildGenerateSourcesEvent;
+           ”(先前值:“
+             ;
+             AfterBuildGenerateSources;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (142,5) 处重新分配属性: $(BuildGenerateSourcesAction)=“_BuildGenerateSourcesAction”(先前值:“Build”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (143,5) 处重新分配属性: $(BuildCompileAction)=“_BuildCompileAction”(先前值:“Build”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (144,5) 处重新分配属性: $(BuildLinkAction)=“_BuildLinkAction”(先前值:“Build”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (251,5) 处重新分配属性: $(DetermineProjectTypeTargets)=“_PrepareForReferenceResolution;
+             ;
+             AddExternalIncludDirectoriesToPaths
+           ”(先前值:“
+             ;
+             AddExternalIncludDirectoriesToPaths
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (311,5) 处重新分配属性: $(ResolveReferencesDependsOn)=“_PrepareForReferenceResolution;ComputeCrtSDKReference;
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ResolveTestReferences
+           ”(先前值:“
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ResolveTestReferences
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (312,5) 处重新分配属性: $(ResolveAssemblyReferencesDependsOn)=“_PrepareForReferenceResolution;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets”(先前值:“
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (313,5) 处重新分配属性: $(ResolveSDKReferencesDependsOn)=“_PrepareForReferenceResolution;ComputeCrtSDKReference;
+             GetInstalledSDKLocations
+           ”(先前值:“
+             GetInstalledSDKLocations
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (612,5) 处重新分配属性: $(ComputeCompileInputsTargets)=“
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ”(先前值:“
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (925,5) 处重新分配属性: $(ComputeLinkInputsTargets)=“
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ”(先前值:“
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1095,5) 处重新分配属性: $(GetTargetPathDependsOn)=“_PrepareForReferenceResolution;GetResolvedWinMD;”(先前值:“”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1121,5) 处重新分配属性: $(ComputeCompileInputsTargets)=“
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ”(先前值:“
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1173,5) 处重新分配属性: $(ComputeLinkInputsTargets)=“
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ”(先前值:“
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1180,5) 处重新分配属性: $(ComputeLibInputsTargets)=“
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ”(先前值:“
+             ;
+             ComputeRCGeneratedLibInputs;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1187,5) 处重新分配属性: $(ComputeImpLibInputsTargets)=“
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ”(先前值:“
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1247,5) 处重新分配属性: $(ComputeLinkInputsTargets)=“
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ”(先前值:“
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1262,5) 处重新分配属性: $(ComputeLibInputsTargets)=“
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ”(先前值:“
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1277,5) 处重新分配属性: $(ComputeImpLibInputsTargets)=“
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ”(先前值:“
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1308,5) 处重新分配属性: $(ComputeLinkInputsTargets)=“
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+             ComputeLinkInputsFromProject;
+           ”(先前值:“
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1326,5) 处重新分配属性: $(ComputeLibInputsTargets)=“
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ”(先前值:“
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1344,5) 处重新分配属性: $(ComputeImpLibInputsTargets)=“
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ;
+             ComputeImpLibInputsFromProject;
+           ”(先前值:“
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1488,5) 处重新分配属性: $(ComputeLinkInputsTargets)=“
+             
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+             ComputeLinkInputsFromProject;
+           ;
+             ComputeReferenceLinkInputs;
+           ”(先前值:“
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+             ComputeLinkInputsFromProject;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1526,5) 处重新分配属性: $(ComputeLibInputsTargets)=“
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ;
+             ComputeReferenceLibInputs;
+           ”(先前值:“
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1583,5) 处重新分配属性: $(ComputeLibInputsTargets)=“
+             ComputeLibAdditionalOptions;
+             
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ;
+             ComputeReferenceLibInputs;
+           
+           ”(先前值:“
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ;
+             ComputeReferenceLibInputs;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1770,5) 处重新分配属性: $(GetProjectInfoForReferenceDependsOn)=“
+             
+             ;
+             AddPublicIncludeDirectoriesToProjectsInfoForReference;
+           ;
+             AddPublicBMIsToProjectsInfoForReference;
+             AddDeployRecipeFileToProjectsInfoForReference;
+             AddLibrariesToProjectsInfoForReference;
+           ”(先前值:“
+             ;
+             AddPublicIncludeDirectoriesToProjectsInfoForReference;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (2157,5) 处重新分配属性: $(DocumentationProjectOutputGroupDependsOn)=“ResolvedXDCMake;ComputeCLCompileGeneratedXDCFiles”(先前值:“”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (2223,5) 处重新分配属性: $(ContentFilesProjectOutputGroupDependsOn)=“PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc”(先前值:“PrepareForBuild;AssignTargetPaths”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (302,5) 处重新分配属性: $(ComputeCompileInputsTargets)=“
+             
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ;
+             ;
+             FixupCLCompileOptions;
+           ”(先前值:“
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (1989,5) 处重新分配属性: $(BuildingProject)=“true”(先前值:“false”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (2516,5) 处重新分配属性: $(ContentFilesProjectOutputGroupDependsOn)=“PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc;_CreateCopyFileItems;”(先前值:“PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets (63,5) 处重新分配属性: $(RemoteDebuggerWorkingDirectory)=“~/projects/Project1/bin/x86/Debug/”(先前值:“”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets (378,5) 处重新分配属性: $(BeforeBuildCompileTargets)=“
+             
+             ;
+           ;
+             _PrepareForClCompile;
+           ”(先前值:“
+             ;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets (383,5) 处重新分配属性: $(BuildLinkTargets)=“
+             
+             ;
+             ComputeLegacyManifestEmbedding;
+             _Link;
+             _ALink;
+             _Manifest;
+             RegisterOutput;
+             _XdcMake;
+             _BscMake;
+           ;
+           ”(先前值:“
+             ;
+             ComputeLegacyManifestEmbedding;
+             _Link;
+             _ALink;
+             _Manifest;
+             RegisterOutput;
+             _XdcMake;
+             _BscMake;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets (387,5) 处重新分配属性: $(AfterBuildLinkTargets)=“
+             RemotePostBuildEvent
+             
+             ;
+             CreateRecipeFile;
+             CreateSatelliteAssemblies;
+             CopyLocalNativeReference;
+             _Appverifier;
+             _Deploy;
+             PrepareForRun;
+             PostBuildEvent;
+           ;
+             _WriteRemoteTarget;
+           ”(先前值:“
+             ;
+             CreateRecipeFile;
+             CreateSatelliteAssemblies;
+             CopyLocalNativeReference;
+             _Appverifier;
+             _Deploy;
+             PrepareForRun;
+             PostBuildEvent;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets (399,5) 处重新分配属性: $(BuildGenerateSourcesTargets)=“
+             
+             ;
+             PreBuildEvent;
+             _Xsd;
+             _Midl;
+           ;
+             RemotePreBuildEvent;
+           ”(先前值:“
+             ;
+             PreBuildEvent;
+             _Xsd;
+             _Midl;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets (791,5) 处重新分配属性: $(DetermineProjectTypeTargets)=“_SetLinuxISenseIdentifier;_PrepareForReferenceResolution;
+             ;
+             AddExternalIncludDirectoriesToPaths
+           ”(先前值:“_PrepareForReferenceResolution;
+             ;
+             AddExternalIncludDirectoriesToPaths
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.Common.targets (17,5) 处重新分配属性: $(BeforeBuildCompileTargets)=“
+             CreateRecipeFile;
+             MergeRecipeFiles;
+             ComputeIncludePathsFromRecipes;
+             
+             
+             ;
+           ;
+             _PrepareForClCompile;
+           ;
+           ”(先前值:“
+             
+             ;
+           ;
+             _PrepareForClCompile;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.Common.targets (24,5) 处重新分配属性: $(DetermineProjectTypeTargets)=“
+             _SetLinuxISenseIdentifier;_PrepareForReferenceResolution;
+             ;
+             AddExternalIncludDirectoriesToPaths
+           ;
+             ComputeIncludePathsFromRecipes
+           ”(先前值:“_SetLinuxISenseIdentifier;_PrepareForReferenceResolution;
+             ;
+             AddExternalIncludDirectoriesToPaths
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets (22,5) 处重新分配属性: $(CleanDependsOn)=“
+             
+             _PrepareForClean;
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+           ;
+             CppClean
+           ”(先前值:“
+             _PrepareForClean;
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets (27,5) 处重新分配属性: $(CppCleanDependsOn)=“
+             BeforeCppClean;
+             
+             ;
+             _RemoteClean;
+           ;
+             CoreCppClean;
+             AfterCppClean;
+           ”(先前值:“
+             ;
+             _RemoteClean;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets (92,5) 处重新分配属性: $(CppCleanDependsOn)=“
+             BeforeCppClean;
+             
+             ;
+             _RemoteClean;
+           ;
+             CoreCppClean;
+             AfterCppClean;
+           ;PGInstrumentedClean”(先前值:“
+             BeforeCppClean;
+             
+             ;
+             _RemoteClean;
+           ;
+             CoreCppClean;
+             AfterCppClean;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets (540,5) 处重新分配属性: $(BuildDependsOn)=“SetTelemetryEnvironmentVariables;
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           ”(先前值:“
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           ”)
+       在 E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets (541,5) 处重新分配属性: $(RebuildDependsOn)=“SetTelemetryEnvironmentVariables;
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           ”(先前值:“
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           ”)
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets”中的目标“GenerateTargetFrameworkMonikerAttribute”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“GenerateTargetFrameworkMonikerAttribute”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets”中的目标“Build”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“Build”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets”中的目标“Rebuild”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“Rebuild”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets”中的目标“AfterBuild”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“AfterBuild”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“PrepareForBuild”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“PrepareForBuild”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“GetTargetPath”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“GetTargetPath”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“ComputeIntermediateSatelliteAssemblies”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“ComputeIntermediateSatelliteAssemblies”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“ClCompile”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“ClCompile”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“ResourceCompile”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“ResourceCompile”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“Lib”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“Lib”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“Link”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“Link”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“AllProjectOutputGroups”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“AllProjectOutputGroups”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“BuiltProjectOutputGroup”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“BuiltProjectOutputGroup”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“DebugSymbolsProjectOutputGroup”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“DebugSymbolsProjectOutputGroup”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“DocumentationProjectOutputGroup”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“DocumentationProjectOutputGroup”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“SourceFilesProjectOutputGroup”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“SourceFilesProjectOutputGroup”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“ContentFilesProjectOutputGroup”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“ContentFilesProjectOutputGroup”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“AllProjectOutputGroupsDependencies”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“AllProjectOutputGroupsDependencies”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“BuiltProjectOutputGroupDependencies”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“BuiltProjectOutputGroupDependencies”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“DebugSymbolsProjectOutputGroupDependencies”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“DebugSymbolsProjectOutputGroupDependencies”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“DocumentationProjectOutputGroupDependencies”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“DocumentationProjectOutputGroupDependencies”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“PreBuildEvent”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“PreBuildEvent”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“PostBuildEvent”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“PostBuildEvent”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“ClCompile”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“ClCompile”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“Link”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“Link”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“Lib”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“Lib”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“ImpLib”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“ImpLib”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“Midl”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“Midl”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“ResourceCompile”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“ResourceCompile”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“BeforeResGen”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“BeforeResGen”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“ResGen”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“ResGen”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“GenerateSatelliteAssemblies”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“GenerateSatelliteAssemblies”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“Manifest”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“Manifest”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“XdcMake”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“XdcMake”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“BscMake”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“BscMake”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“ComputeMetaGenInputs”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MetaGen.targets”中的目标“ComputeMetaGenInputs”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“GetNativeManifest”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“GetNativeManifest”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets”中的目标“GetResolvedLinkLibs”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“GetResolvedLinkLibs”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets”中的目标“_Link”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“_Link”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets”中的目标“DoLinkOutputFilesMatch”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“DoLinkOutputFilesMatch”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets”中的目标“FixupCLCompileOptions”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“FixupCLCompileOptions”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets”中的目标“ClCompile”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“ClCompile”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets”中的目标“Link”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“Link”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets”中的目标“Lib”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“Lib”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets”中的目标“PreBuildEvent”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“PreBuildEvent”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets”中的目标“PreLinkEvent”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“PreLinkEvent”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets”中的目标“PostBuildEvent”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“PostBuildEvent”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.Common.targets”中的目标“CreateRecipeFile”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“CreateRecipeFile”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.Common.targets”中的目标“ComputeLinkImportLibraryOutputsForClean”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“ComputeLinkImportLibraryOutputsForClean”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.Common.targets”中的目标“CreateFullDebugSymbols”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“CreateFullDebugSymbols”。
+       正在使用项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets”中的目标“GetTargetPathWithTargetPlatformMoniker”重写项目“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“GetTargetPathWithTargetPlatformMoniker”。
+生成启动时间为 2023/5/18 16:26:36。
+日志记录详细程度设置为: Detailed。     1>项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”在节点 2 上(Build 个目标)。
+     1>正在使用工具版本“Current”进行生成。
+       项目文件包含 ToolsVersion="15.0"。此工具集未知或缺失(在此情况下，您可以通过安装合适的 MSBuild 版本来解决此问题)，或者生成可能已被强制到特定的 ToolsVersion (出于策略原因)。将项目视为具有 ToolsVersion="Current"。有关详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=293424。
+       由于条件的计算结果为 false，已跳过目标“EnableIntermediateOutputPathMismatchWarning”；('$(RestoreProjectStyle)' == 'PackageReference')的计算结果为('' == 'PackageReference')。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“_CheckForInvalidConfigurationAndPlatform”(目标“SetTelemetryEnvironmentVariables”依赖于它):
+       由于 false 条件，已跳过任务“Error”；( '$(_InvalidConfigurationError)' == 'true' )计算为( '' == 'true' )。
+       由于 false 条件，已跳过任务“Warning”；( '$(_InvalidConfigurationWarning)' == 'true' )计算为( '' == 'true' )。
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“Message”任务。
+       任务“Message”
+         Configuration=Debug
+       已完成执行任务“Message”的操作。
+       任务“Message”
+         Platform=x86
+       已完成执行任务“Message”的操作。
+       由于 false 条件，已跳过任务“Error”；('$(OutDir)' != '' and !HasTrailingSlash('$(OutDir)'))计算为('E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\bin\x86\Debug\' != '' and !HasTrailingSlash('E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\bin\x86\Debug\'))。
+       由于 false 条件，已跳过任务“Error”；('$(IntermediateOutputPath)' != '' and !HasTrailingSlash('$(IntermediateOutputPath)'))计算为('E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\obj\x86\Debug\' != '' and !HasTrailingSlash('E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\obj\x86\Debug\'))。
+       由于 false 条件，已跳过任务“Error”；('$(BaseIntermediateOutputPath)' != '' and !HasTrailingSlash('$(BaseIntermediateOutputPath)'))计算为('obj\' != '' and !HasTrailingSlash('obj\'))。
+       由于 false 条件，已跳过任务“Error”；( '$(_InitialMSBuildProjectExtensionsPath)' != '' And '$(MSBuildProjectExtensionsPath)' != '$(_InitialMSBuildProjectExtensionsPath)' )计算为( 'E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\obj\' != '' And 'E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\obj\' != 'E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\obj\' )。
+       由于 false 条件，已跳过任务“Warning”；( '$(EnableBaseIntermediateOutputPathMismatchWarning)' == 'true' And '$(_InitialBaseIntermediateOutputPath)' != '$(BaseIntermediateOutputPath)' And '$(BaseIntermediateOutputPath)' != '$(MSBuildProjectExtensionsPath)' )计算为( '' == 'true' And 'obj\' != 'obj\' And 'obj\' != 'E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\obj\' )。
+     1>已完成在项目“Project1.vcxproj”中生成目标“_CheckForInvalidConfigurationAndPlatform”的操作。
+       已跳过目标“_CheckForInvalidConfigurationAndPlatform”。以前的生成已成功。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets”中的目标“SetTelemetryEnvironmentVariables”(目标“Build”依赖于它):
+       正在使用程序集“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll”中的“SetEnv”任务。
+       任务“SetEnv”
+         VSTEL_SolutionSessionID={C16AF14D-4A0C-40ED-B586-F139FE1900F7}
+       已完成执行任务“SetEnv”的操作。
+       任务“SetEnv”
+         VSTEL_CurrentSolutionBuildID=771216409
+       已完成执行任务“SetEnv”的操作。
+       任务“SetEnv”
+         VSTEL_ProjectID={c73da9cc-37b3-446c-b650-160072416693}
+       已完成执行任务“SetEnv”的操作。
+     1>已完成在项目“Project1.vcxproj”中生成目标“SetTelemetryEnvironmentVariables”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets”中的目标“_PrepareForBuild”(目标“Build”依赖于它):
+       由于 false 条件，已跳过任务“CreateItem”；('%(CustomBuild.IncludeFileToTool)'!='')计算为(''!='')。
+     1>已完成在项目“Project1.vcxproj”中生成目标“_PrepareForBuild”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“_PrepareForReferenceResolution”(目标“ResolveReferences”依赖于它):
+       由于 false 条件，已跳过任务“Message”；('$(_REFERENCE_DEBUG)'=='true')计算为(''=='true')。
+     1>已完成在项目“Project1.vcxproj”中生成目标“_PrepareForReferenceResolution”的操作。
+       由于条件的计算结果为 false，已跳过目标“ComputeCrtSDKReference”；('@(ClCompile)'!='' and '$(WindowsAppContainer)'=='true' and '$(UseCrtSDKReference)' != 'false')的计算结果为('nonactive_conn.cpp'!='' and 'false'=='true' and '' != 'false')。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“BeforeResolveReferences”(目标“ResolveReferences”依赖于它):
+     1>已完成在项目“Project1.vcxproj”中生成目标“BeforeResolveReferences”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“AssignProjectConfiguration”(目标“ResolveReferences”依赖于它):
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“AssignProjectConfiguration”任务。
+       任务“AssignProjectConfiguration”
+       已完成执行任务“AssignProjectConfiguration”的操作。
+     1>已完成在项目“Project1.vcxproj”中生成目标“AssignProjectConfiguration”的操作。
+       已跳过目标“AssignProjectConfiguration”。以前的生成已成功。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“_SplitProjectReferencesByFileExistence”(目标“PrepareProjectReferences”依赖于它):
+       由于 false 条件，已跳过任务“ResolveNonMSBuildProjectOutput”；('$(BuildingInsideVisualStudio)'=='true' and '@(ProjectReferenceWithConfiguration)'!='')计算为('true'=='true' and ''!='')。
+     1>已完成在项目“Project1.vcxproj”中生成目标“_SplitProjectReferencesByFileExistence”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“_AddOutputPathToGlobalPropertiesToRemove”(目标“_GetProjectReferenceTargetFrameworkProperties”依赖于它):
+     1>已完成在项目“Project1.vcxproj”中生成目标“_AddOutputPathToGlobalPropertiesToRemove”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“_GetProjectReferenceTargetFrameworkProperties”(目标“PrepareProjectReferences”依赖于它):
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“MSBuild”任务。
+       任务“MSBuild”
+       已完成执行任务“MSBuild”的操作。
+       由于 false 条件，已跳过任务“GetReferenceNearestTargetFrameworkTask”；('@(_ProjectReferenceTargetFrameworkPossibilities->Count())' != '0' and '$(ReferringTargetFrameworkForProjectReferences)' != ''
+                                                               And '$(GetReferenceNearestTargetFrameworkTaskSupportsTargetPlatformParameter)' == 'true')计算为('0' != '0' and '' != ''
+                                                               And 'true' == 'true')。
+       由于 false 条件，已跳过任务“GetReferenceNearestTargetFrameworkTask”；('@(_ProjectReferenceTargetFrameworkPossibilities->Count())' != '0' and '$(ReferringTargetFrameworkForProjectReferences)' != ''
+                                                               And '$(GetReferenceNearestTargetFrameworkTaskSupportsTargetPlatformParameter)' != 'true')计算为('0' != '0' and '' != ''
+                                                               And 'true' != 'true')。
+     1>已完成在项目“Project1.vcxproj”中生成目标“_GetProjectReferenceTargetFrameworkProperties”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“PrepareProjectReferences”(目标“ResolveProjectReferences”依赖于它):
+     1>已完成在项目“Project1.vcxproj”中生成目标“PrepareProjectReferences”的操作。
+       由于条件的计算结果为 false，已跳过目标“_RemoveNameMetadataFromProjectReferenceItems”；('@(ProjectReference)'!='')的计算结果为(''!='')。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“ResolveProjectReferences”(目标“ResolveReferences”依赖于它):
+       由于 false 条件，已跳过任务“MSBuild”；('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and ('$(BuildingInsideVisualStudio)' == 'true' or '$(BuildProjectReferences)' != 'true') and '$(VisualStudioVersion)' != '10.0' and '@(_MSBuildProjectReferenceExistent)' != '')计算为('' == 'true' and '' != '' and ('true' == 'true' or 'true' != 'true') and '16.0' != '10.0' and '' != '')。
+       由于 false 条件，已跳过任务“MSBuild”；('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '')计算为('' == 'true' and '' != '' and 'true' != 'true' and 'true' == 'true' and '' != '')。
+       由于 false 条件，已跳过任务“MSBuild”；('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingProject)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '')计算为('' == 'true' and '' != '' and 'true' == 'true' and '' != '')。
+       由于 false 条件，已跳过任务“Warning”；('@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceNonexistent)' != '')计算为('' != '' and '' != '')。
+     1>已完成在项目“Project1.vcxproj”中生成目标“ResolveProjectReferences”的操作。
+       由于条件的计算结果为 false，已跳过目标“FindInvalidProjectReferences”；('$(FindInvalidProjectReferences)' == 'true')的计算结果为('' == 'true')。
+       由于条件的计算结果为 false，已跳过目标“ResolveNativeReferences”；('@(NativeReference)'!='')的计算结果为(''!='')。
+       已跳过目标“_PrepareForReferenceResolution”。以前的生成已成功。
+       已跳过目标“ResolveProjectReferences”。以前的生成已成功。
+       由于条件的计算结果为 false，已跳过目标“FindInvalidProjectReferences”；('$(FindInvalidProjectReferences)' == 'true')的计算结果为('' == 'true')。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“GetFrameworkPaths”(目标“ResolveAssemblyReferences”依赖于它):
+     1>已完成在项目“Project1.vcxproj”中生成目标“GetFrameworkPaths”的操作。
+       已跳过目标“_PrepareForReferenceResolution”。以前的生成已成功。
+       已跳过目标“GetFrameworkPaths”。以前的生成已成功。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“GetReferenceAssemblyPaths”(目标“ResolveAssemblyReferences”依赖于它):
+       由于 false 条件，已跳过任务“GetReferenceAssemblyPaths”；('$(TargetFrameworkMoniker)' != '' and ('$(_TargetFrameworkDirectories)' == '' or '$(_FullFrameworkReferenceAssemblyPaths)' == ''))计算为('' != '' and ('' == '' or '' == ''))。
+     1>已完成在项目“Project1.vcxproj”中生成目标“GetReferenceAssemblyPaths”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Current.targets”中的目标“AddExternalIncludDirectoriesToPaths”(目标“SetBuildDefaultEnvironmentVariables”依赖于它):
+     1>已完成在项目“Project1.vcxproj”中生成目标“AddExternalIncludDirectoriesToPaths”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Current.targets”中的目标“SetBuildDefaultEnvironmentVariables”(目标“PrepareForBuild”依赖于它):
+       任务“SetEnv”
+         PATH=E:\Workstation\VM\install\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;E:\Workstation\Xshell7\install\;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\panda\AppData\Local\Microsoft\WindowsApps;;E:\Workstation\VSCode\install\bin;C:\Users\panda\.dotnet\tools;E:\Workstation\pycharm\bin;
+       已完成执行任务“SetEnv”的操作。
+       任务“SetEnv”
+         LIB=
+       已完成执行任务“SetEnv”的操作。
+       任务“SetEnv”
+         LIBPATH=
+       已完成执行任务“SetEnv”的操作。
+       任务“SetEnv”
+         INCLUDE=
+       已完成执行任务“SetEnv”的操作。
+       任务“SetEnv”
+         EXTERNAL_INCLUDE=
+       已完成执行任务“SetEnv”的操作。
+     1>已完成在项目“Project1.vcxproj”中生成目标“SetBuildDefaultEnvironmentVariables”的操作。
+       由于条件的计算结果为 false，已跳过目标“SetUserMacroEnvironmentVariables”；('@(BuildMacro)' != '' and '$(DesignTimeBuild)' != 'true')的计算结果为('' != '' and '' != 'true')。
+       已跳过目标“_PrepareForReferenceResolution”。以前的生成已成功。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“GetResolvedWinMD”(目标“PrepareForBuild”依赖于它):
+     1>已完成在项目“Project1.vcxproj”中生成目标“GetResolvedWinMD”的操作。
+       已跳过目标“GetFrameworkPaths”。以前的生成已成功。
+       已跳过目标“GetReferenceAssemblyPaths”。以前的生成已成功。
+       由于条件的计算结果为 false，已跳过目标“AssignLinkMetadata”；( '$(SynthesizeLinkMetadata)' == 'true' )的计算结果为( '' == 'true' )。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets”中的目标“SetCABuildNativeEnvironmentVariables”(目标“PrepareForBuild”依赖于它):
+       由于 false 条件，已跳过任务“SetEnv”；('$(CAExcludePath)'!='')计算为(''!='')。
+       由于 false 条件，已跳过任务“SetEnv”；('$(RunMsvcAnalysis)'=='true' and '$(VCCodeAnalysisUX)'=='true')计算为('false'=='true' and 'true'=='true')。
+     1>已完成在项目“Project1.vcxproj”中生成目标“SetCABuildNativeEnvironmentVariables”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“PrepareForBuild”(目标“ResolveAssemblyReferences”依赖于它):
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)' != 'true' and '$(ConfigurationPlatformExists)' != 'true')计算为('' != 'true' and 'true' != 'true')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)' != 'true' and '$(_ToolsetFound)' != 'true')计算为('' != 'true' and 'true' != 'true')。
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“MakeDir”任务。
+       任务“MakeDir”
+       已完成执行任务“MakeDir”的操作。
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)'!='true' and '$(WindowsAppContainer)'=='true' and '$(ConfigurationType)'!='Application' and '$(ConfigurationType)'!='DynamicLibrary' and '$(ConfigurationType)'!='StaticLibrary')计算为(''!='true' and 'false'=='true' and 'Application'!='Application' and 'Application'!='DynamicLibrary' and 'Application'!='StaticLibrary')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true' and ('$(TargetFrameworkVersion)'=='v3.5' or '$(TargetFrameworkVersion)'=='v3.0' or '$(TargetFrameworkVersion)'=='v2.0' ))计算为(''!='true' and 'VCToolsInstallDir_is_not_defined'=='' and '' != 'true' and (''=='v3.5' or ''=='v3.0' or ''=='v2.0' ))。
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true' and '$(PlatformToolset)'=='v90')计算为(''!='true' and 'VCToolsInstallDir_is_not_defined'=='' and '' != 'true' and 'Remote_GCC_1_0'=='v90')。
+       由于 false 条件，已跳过任务“CheckVCToolsetVersion”；('$(DesignTimeBuild)'!='true' and '$(CheckMSVCComponents)'=='true')计算为(''!='true' and ''=='true')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(CheckMFCInstalled)' == 'true' and !Exists($(MFC_KeyFile)) and '$(SpectreLibs)' == '')计算为('' == 'true' and !Exists() and '' == '')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(CheckMFCInstalled)' == 'true' and !Exists($(MFC_KeyFile)) and '$(SpectreLibs)' != '')计算为('' == 'true' and !Exists() and '' != '')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(CheckATLInstalled)' == 'true' and !Exists($(ATL_KeyFile)) and '$(SpectreLibs)' == '')计算为('' == 'true' and !Exists() and '' == '')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(CheckATLInstalled)' == 'true' and !Exists($(ATL_KeyFile)) and '$(SpectreLibs)' != '')计算为('' == 'true' and !Exists() and '' != '')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)' != 'true' and
+                                                               '$(CheckMSVCComponents)'=='true' and
+                                                               '$(SpectreMitigation)' != '' and
+                                                               '$(SpectreMitigation)' != 'false' and
+                                                               (('$(_VC_Target_Library_Platform)' == 'OneCore' and !Exists('$(VC_LibraryPath_VC_OneCore_CurrentPlatform_spectre)')) or
+                                                                ('$(_VC_Target_Library_Platform)' == 'Desktop' and !Exists('$(VC_LibraryPath_VC_Desktop_CurrentPlatform_spectre)'))))计算为('' != 'true' and
+                                                               ''=='true' and
+                                                               'false' != '' and
+                                                               'false' != 'false' and
+                                                               (('' == 'OneCore' and !Exists('')) or
+                                                                ('' == 'Desktop' and !Exists(''))))。
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true')计算为(''!='true' and 'VCToolsInstallDir_is_not_defined'=='' and '' != 'true')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)'!='true' and '$(WindowsSDKDir)'=='' and '$(UseEnv)' != 'true')计算为(''!='true' and 'WindowsSdkDir_is_not_defined'=='' and '' != 'true')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)'!='true' and '$(IntDirTrailingSlashWarning)'=='true')计算为(''!='true' and ''=='true')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)'!='true' and '$(OutDirTrailingSlashWarning)'=='true')计算为(''!='true' and ''=='true')。
+       由于 false 条件，已跳过任务“VCMessage”；('%(CompatibilityIssues.Identity)' != '' and '$(DesignTimeBuild)'!='true')计算为('' != '' and ''!='true')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(IgnoreWarnIntDirSharingDetected)' != 'true' and '$(IntDirSharingDetected)' == 'true')计算为('' != 'true' and '' == 'true')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)'!='true' and '$(IgnoreWarnIntDirInTempDetected)' != 'true' and ('$(IntDirFullPath.StartsWith($(Tmp), true, null))' == 'true' or '$(IntDirFullPath.StartsWith($(Temp), true, null))' == 'true' or '$(OutDirFullPath.StartsWith($(Tmp), true, null))' == 'true' or '$(OutDirFullPath.StartsWith($(Temp), true, null))' == 'true'))计算为(''!='true' and '' != 'true' and ('False' == 'true' or 'False' == 'true' or 'False' == 'true' or 'False' == 'true'))。
+       任务“MakeDir”
+       已完成执行任务“MakeDir”的操作。
+     1>已完成在项目“Project1.vcxproj”中生成目标“PrepareForBuild”的操作。
+       已跳过目标“_PrepareForReferenceResolution”。以前的生成已成功。
+       由于条件的计算结果为 false，已跳过目标“ComputeCrtSDKReference”；('@(ClCompile)'!='' and '$(WindowsAppContainer)'=='true' and '$(UseCrtSDKReference)' != 'false')的计算结果为('nonactive_conn.cpp'!='' and 'false'=='true' and '' != 'false')。
+       由于条件的计算结果为 false，已跳过目标“GetInstalledSDKLocations”；('@(SDKReference)' != '')的计算结果为('' != '')。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“ResolveSDKReferences”(目标“ResolveAssemblyReferences”依赖于它):
+       由于 false 条件，已跳过任务“ResolveSDKReference”；('@(SDKReference)'!='')计算为(''!='')。
+     1>已完成在项目“Project1.vcxproj”中生成目标“ResolveSDKReferences”的操作。
+       已跳过目标“ResolveSDKReferences”。以前的生成已成功。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“ExpandSDKReferences”(目标“ResolveAssemblyReferences”依赖于它):
+       由于 false 条件，已跳过任务“GetSDKReferenceFiles”；('@(ResolvedSDKReference)'!='')计算为(''!='')。
+     1>已完成在项目“Project1.vcxproj”中生成目标“ExpandSDKReferences”的操作。
+       由于条件的计算结果为 false，已跳过目标“ResolveNuGetPackageAssets”；('$(ResolveNuGetPackages)' == 'true' and exists('$(ProjectLockFile)'))的计算结果为('true' == 'true' and exists('obj\project.assets.json'))。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“ResolveAssemblyReferences”(目标“ResolveReferences”依赖于它):
+       由于 false 条件，已跳过任务“ResolveAssemblyReference”；('@(Reference)'!='' or '@(_ResolvedProjectReferencePaths)'!='' or '@(_ExplicitReference)' != '')计算为(''!='' or ''!='' or '' != '')。
+     1>已完成在项目“Project1.vcxproj”中生成目标“ResolveAssemblyReferences”的操作。
+       由于条件的计算结果为 false，已跳过目标“GenerateBindingRedirects”；('$(AutoGenerateBindingRedirects)' == 'true' and '$(GenerateBindingRedirectsOutputType)' == 'true')的计算结果为('' == 'true' and 'true' == 'true')。
+       由于条件的计算结果为 false，已跳过目标“GenerateBindingRedirectsUpdateAppConfig”；('$(AutoGenerateBindingRedirects)' == 'true' and '$(GenerateBindingRedirectsOutputType)' == 'true' and Exists('$(_GenerateBindingRedirectsIntermediateAppConfig)'))的计算结果为('' == 'true' and 'true' == 'true' and Exists('E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\obj\x86\Debug\Project1.out.config'))。
+       由于条件的计算结果为 false，已跳过目标“ResolveComReferences”；('@(COMReference)'!='' or '@(COMFileReference)'!='')的计算结果为(''!='' or ''!='')。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“AfterResolveReferences”(目标“ResolveReferences”依赖于它):
+     1>已完成在项目“Project1.vcxproj”中生成目标“AfterResolveReferences”的操作。
+       由于条件的计算结果为 false，已跳过目标“ResolveTestReferences”；('@(Shadow)'!='')的计算结果为(''!='')。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“ResolveReferences”(目标“Build”依赖于它):
+     1>已完成在项目“Project1.vcxproj”中生成目标“ResolveReferences”的操作。
+       已跳过目标“PrepareForBuild”。以前的生成已成功。
+       已跳过目标“PrepareForBuild”。以前的生成已成功。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“InitializeBuildStatus”(目标“Build”依赖于它):
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“ReadLinesFromFile”任务。
+       任务“ReadLinesFromFile”
+       已完成执行任务“ReadLinesFromFile”的操作。
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“WriteLinesToFile”任务。
+       任务“WriteLinesToFile”
+       已完成执行任务“WriteLinesToFile”的操作。
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“Touch”任务。
+       任务“Touch”
+         正在对“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\obj\x86\Debug\Project1.tlog\unsuccessfulbuild”执行 Touch 任务。
+       已完成执行任务“Touch”的操作。
+     1>已完成在项目“Project1.vcxproj”中生成目标“InitializeBuildStatus”的操作。
+       已跳过目标“PrepareProjectReferences”。以前的生成已成功。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“BuildGenerateSourcesTraverse”(目标“BuildGenerateSources”依赖于它):
+       由于 false 条件，已跳过任务“MSBuild”；('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '' and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true')计算为('' == 'true' and '' != '' and '' != '' and '' == 'true')。
+     1>已完成在项目“Project1.vcxproj”中生成目标“BuildGenerateSourcesTraverse”的操作。
+       已跳过目标“PrepareForBuild”。以前的生成已成功。
+       已跳过目标“ResolveReferences”。以前的生成已成功。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets”中的目标“BeforeBuildGenerateSources”(目标“_BuildGenerateSourcesAction”依赖于它):
+     1>已完成在项目“Project1.vcxproj”中生成目标“BeforeBuildGenerateSources”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets”中的目标“_ConsolidateSourcesToCopy”(目标“_RequiresRemoteConnection”依赖于它):
+       正在使用程序集“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Microsoft.Build.Linux.Tasks.dll”中的“ConsolidateSourcesToCopy”任务。
+       任务“ConsolidateSourcesToCopy”
+       已完成执行任务“ConsolidateSourcesToCopy”的操作。
+     1>已完成在项目“Project1.vcxproj”中生成目标“_ConsolidateSourcesToCopy”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets”中的目标“_RequiresRemoteConnection”(目标“_ResolveRemoteTarget”依赖于它):
+       正在使用程序集“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Microsoft.Build.Linux.Tasks.dll”中的“RequiresRemoteConnection”任务。
+       任务“RequiresRemoteConnection”
+         正在检查当前项目是否需要远程连接。
+         当前项目需要远程连接。
+       已完成执行任务“RequiresRemoteConnection”的操作。
+     1>已完成在项目“Project1.vcxproj”中生成目标“_RequiresRemoteConnection”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets”中的目标“_ResolveRemoteTarget”(目标“PreBuildEvent”依赖于它):
+       正在使用程序集“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Microsoft.Build.Linux.Tasks.dll”中的“ResolveRemoteTarget”任务。
+       任务“ResolveRemoteTarget”
+       已完成执行任务“ResolveRemoteTarget”的操作。
+     1>已完成在项目“Project1.vcxproj”中生成目标“_ResolveRemoteTarget”的操作。
+       已跳过目标“_ResolveRemoteTarget”。以前的生成已成功。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets”中的目标“_PrepareUpToDateChecks”(目标“ResolveRemoteDir”依赖于它):
+     1>已完成在项目“Project1.vcxproj”中生成目标“_PrepareUpToDateChecks”的操作。
+       已跳过目标“_RequiresRemoteConnection”。以前的生成已成功。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets”中的目标“ResolveRemoteDir”(目标“PreBuildEvent”依赖于它):
+       正在使用程序集“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Microsoft.Build.Linux.Tasks.dll”中的“ResolveRemoteDir”任务。
+       任务“ResolveRemoteDir”
+       已完成执行任务“ResolveRemoteDir”的操作。
+     1>已完成在项目“Project1.vcxproj”中生成目标“ResolveRemoteDir”的操作。
+       已跳过目标“_RequiresRemoteConnection”。以前的生成已成功。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets”中的目标“PreBuildEvent”(目标“_BuildGenerateSourcesAction”依赖于它):
+       由于 false 条件，已跳过任务“Message”；('%(PreBuildEvent.Message)' != '' and '%(PreBuildEvent.Command)' != '')计算为('' != '' and '' != '')。
+       由于 false 条件，已跳过任务“Exec”；('%(PreBuildEvent.Command)' != '')计算为('' != '')。
+       由于 false 条件，已跳过任务“Execute”；('%(PreBuildEvent.AdditionalSourcesToCopyMapping)' != '' and '$(RequireRemoteConnection)' == 'true')计算为('' != '' and 'True' == 'true')。
+     1>已完成在项目“Project1.vcxproj”中生成目标“PreBuildEvent”的操作。
+       已跳过目标“PrepareForBuild”。以前的生成已成功。
+       已跳过目标“InitializeBuildStatus”。以前的生成已成功。
+       已跳过目标“SetBuildDefaultEnvironmentVariables”。以前的生成已成功。
+       由于条件的计算结果为 false，已跳过目标“SetUserMacroEnvironmentVariables”；('@(BuildMacro)' != '' and '$(DesignTimeBuild)' != 'true')的计算结果为('' != '' and '' != 'true')。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“_SelectedFiles”(目标“SelectCustomBuild”依赖于它):
+     1>已完成在项目“Project1.vcxproj”中生成目标“_SelectedFiles”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“SelectCustomBuild”(目标“CustomBuild”依赖于它):
+     1>已完成在项目“Project1.vcxproj”中生成目标“SelectCustomBuild”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“ComputeCustomBuildOutput”(目标“CustomBuild”依赖于它):
+       由于 false 条件，已跳过任务“CreateItem”；('%(CustomBuildOutputs.OutputItemType)'!='')计算为(''!='')。
+       任务“MakeDir”
+       已完成执行任务“MakeDir”的操作。
+     1>已完成在项目“Project1.vcxproj”中生成目标“ComputeCustomBuildOutput”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets”中的目标“CustomBuild”(目标“_BuildGenerateSourcesAction”依赖于它):
+       正在使用程序集“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll”中的“GetOutOfDateItems”任务。
+       任务“GetOutOfDateItems”
+       已完成执行任务“GetOutOfDateItems”的操作。
+       任务“GetOutOfDateItems”
+       已完成执行任务“GetOutOfDateItems”的操作。
+       由于 false 条件，已跳过任务“ParallelCustomBuild”；('@(_ParallelCustomBuild)' != '')计算为('' != '')。
+       由于 false 条件，已跳过任务“CustomBuild”；('@(_CustomBuild)' != '')计算为('' != '')。
+     1>已完成在项目“Project1.vcxproj”中生成目标“CustomBuild”的操作。
+       由于条件的计算结果为 false，已跳过目标“FxExport”；('@(FxCompile)' != '')的计算结果为('' != '')。
+       由于条件的计算结果为 false，已跳过目标“FxCompile”；('@(FxCompile)' != '')的计算结果为('' != '')。
+       由于条件的计算结果为 false，已跳过目标“Xsd”；('@(Xsd)' != '')的计算结果为('' != '')。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“_Xsd”(目标“_BuildGenerateSourcesAction”依赖于它):
+     1>已完成在项目“Project1.vcxproj”中生成目标“_Xsd”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“MakeDirsForMidl”(目标“_Midl”依赖于它):
+       任务“Makedir”
+       已完成执行任务“Makedir”的操作。
+     1>已完成在项目“Project1.vcxproj”中生成目标“MakeDirsForMidl”的操作。
+       由于条件的计算结果为 false，已跳过目标“Midl”；('@(Midl)' != '')的计算结果为('' != '')。
+       由于条件的计算结果为 false，已跳过目标“FxExport”；('@(FxCompile)' != '')的计算结果为('' != '')。
+       由于条件的计算结果为 false，已跳过目标“FxCompile”；('@(FxCompile)' != '')的计算结果为('' != '')。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“ComputeMIDLGeneratedCompileInputs”(目标“_Midl”依赖于它):
+     1>已完成在项目“Project1.vcxproj”中生成目标“ComputeMIDLGeneratedCompileInputs”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“AfterMidl”(目标“_Midl”依赖于它):
+     1>已完成在项目“Project1.vcxproj”中生成目标“AfterMidl”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“_Midl”(目标“_BuildGenerateSourcesAction”依赖于它):
+     1>已完成在项目“Project1.vcxproj”中生成目标“_Midl”的操作。
+       已跳过目标“_ResolveRemoteTarget”。以前的生成已成功。
+       已跳过目标“ResolveRemoteDir”。以前的生成已成功。
+       已跳过目标“_RequiresRemoteConnection”。以前的生成已成功。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets”中的目标“RemotePreBuildEvent”(目标“_BuildGenerateSourcesAction”依赖于它):
+       由于 false 条件，已跳过任务“Message”；('%(RemotePreBuildEvent.Message)' != '' and '%(RemotePreBuildEvent.Command)' != '')计算为('' != '' and '' != '')。
+       由于 false 条件，已跳过任务“Execute”；(('%(RemotePreBuildEvent.Command)' != '' or '%(RemotePreBuildEvent.AdditionalSourcesToCopyMapping)' != '') and '$(RequireRemoteConnection)' == 'true')计算为(('' != '' or '' != '') and 'True' == 'true')。
+     1>已完成在项目“Project1.vcxproj”中生成目标“RemotePreBuildEvent”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets”中的目标“AfterBuildGenerateSources”(目标“_BuildGenerateSourcesAction”依赖于它):
+     1>已完成在项目“Project1.vcxproj”中生成目标“AfterBuildGenerateSources”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“AfterBuildGenerateSourcesEvent”(目标“_BuildGenerateSourcesAction”依赖于它):
+     1>已完成在项目“Project1.vcxproj”中生成目标“AfterBuildGenerateSourcesEvent”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets”中的目标“_BuildGenerateSourcesAction”(目标“BuildGenerateSources”依赖于它):
+     1>已完成在项目“Project1.vcxproj”中生成目标“_BuildGenerateSourcesAction”的操作。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“BuildGenerateSources”(目标“Build”依赖于它):
+     1>已完成在项目“Project1.vcxproj”中生成目标“BuildGenerateSources”的操作。
+       已跳过目标“PrepareProjectReferences”。以前的生成已成功。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets”中的目标“BuildCompileTraverse”(目标“BuildCompile”依赖于它):
+       由于 false 条件，已跳过任务“MSBuild”；('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != ''  and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true')计算为('' == 'true' and '' != '' and '' != ''  and '' == 'true')。
+     1>已完成在项目“Project1.vcxproj”中生成目标“BuildCompileTraverse”的操作。
+       已跳过目标“PrepareForBuild”。以前的生成已成功。
+       已跳过目标“ResolveReferences”。以前的生成已成功。
+       已跳过目标“PrepareForBuild”。以前的生成已成功。
+       已跳过目标“ResolveReferences”。以前的生成已成功。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets”中的目标“_AssignProjectReferencesPlatformType”(目标“CreateRecipeFile”依赖于它):
+     1>已完成在项目“Project1.vcxproj”中生成目标“_AssignProjectReferencesPlatformType”的操作。
+       已跳过目标“_RequiresRemoteConnection”。以前的生成已成功。
+       已跳过目标“_ResolveRemoteTarget”。以前的生成已成功。
+       已跳过目标“ResolveRemoteDir”。以前的生成已成功。
+       已跳过目标“_ConsolidateSourcesToCopy”。以前的生成已成功。
+       已跳过目标“_PrepareUpToDateChecks”。以前的生成已成功。
+     1>来自项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”的文件“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets”中的目标“_ValidateSources”(目标“_CopySources”依赖于它):
+       正在使用程序集“E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Microsoft.Build.Linux.Tasks.dll”中的“ValidateSources”任务。
+       任务“ValidateSources”
+         正在验证源
+     1>E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets(223,5): warning : 磁盘上不存在文件“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\11-5tw_timer.h”，因此无法将该文件包括在项目中。
+     1>E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets(223,5): error MSB4181: “ValidateSources”任务返回了 false，但未记录错误。
+       已完成执行任务“ValidateSources”的操作 - 失败。
+     1>已完成在项目“Project1.vcxproj”中生成目标“_ValidateSources”的操作 - 失败。
+     1>已完成生成项目“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+       “E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”(Build 目标) (1) ->
+       (_ValidateSources 目标) -> 
+         E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets(223,5): warning : 磁盘上不存在文件“E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\11-5tw_timer.h”，因此无法将该文件包括在项目中。
+
+
+       “E:\share\cppcode\LinuxServerCodes\LinuxServerCodes-master\Project\Project1\Project1.vcxproj”(Build 目标) (1) ->
+       (_ValidateSources 目标) -> 
+         E:\Workstation\VisualStudio\install\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets(223,5): error MSB4181: “ValidateSources”任务返回了 false，但未记录错误。
+
+    1 个警告
+    1 个错误
+
+已用时间 00:00:01.28
